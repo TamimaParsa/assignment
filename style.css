@@ -1,0 +1,176 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.border {
+    font-size: 50px;
+    border-left: 3px solid rgba(71, 137, 223, 0.767);
+    border-radius: 1%;
+    border-image-slice: 1;
+    padding-left: 10px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.blue {
+    color: rgba(0, 4, 255, 0.623);
+}
+
+.half-width {
+    width: 50%;
+    margin: 0px 30px 0px 100px;
+    padding: 0px 35px 15px 15px;
+}
+
+.half-width img {
+    width: 80%;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.link-button {
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+    padding: 12px 30px 12px 30px;
+   background-image: linear-gradient(purple, rgb(96, 189, 219));
+    border-radius: 5px;
+    font-weight: 550;
+}
+.flexiable-container1 {
+    display: flex;
+    width: 70%;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.onethird-width {
+    width: 30%;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 0px 30px 30px;
+    border-radius: 39px;
+}
+
+.onethird-width img {
+    width: 40%;
+}
+
+.mymission {
+    font-size: 12px;
+}
+
+#mission {
+    background-color: rgba(152, 245, 214, 0.39);
+}
+
+#vission {
+    background-color: rgba(252, 194, 203, 0.623);
+}
+
+#goals {
+    background-color: rgba(247, 166, 134, 0.705);
+}
+.flexiable-container {
+    display: flex;
+    margin: 0;
+}
+
+.half-width1 {
+    width: 70%;
+    padding: 0px 90px 15px 15px;
+}
+
+.fontsize {
+    font-size: 17px;
+}
+
+.half-width1 img {
+    width: 70%;
+    margin-left: 75px;
+    padding-left: 60px;
+}
+
+#withoutlimits {
+    background-image: url(images/shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 230px;
+    background-position-x: 55px;
+}
+
+.h11 {
+    font-size: 35px;
+    font-weight: 1000;
+}
+
+#globalcommunity {
+    background-image: url(images/shapes/shape-1.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-position-x: 350px;
+    background-position-y: bottom;
+    background-size: 150px;
+    margin: 50px;
+    padding: 50px;
+}
+.center {
+    font-size: 50px;
+    text-align: center;
+}
+.half-width4 {
+    width: 50%;
+    margin: 0px 30px 0px 100px;
+    padding: 0px 35px 0px 15px;
+}
+
+.half-width4 img {
+    width: 50%;
+    margin-left: 100px;
+    padding-top: 0px;
+}
+
+#gocorona {
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 90px;
+    background-position-x: left;
+    background-position-y: -px;
+}
+
+.aqua {
+   color: rgb(0, 204, 255);
+}
+.sharethought{
+    text-align: center;
+}
+.thought{
+    width: 900px;
+    height: 80px;
+}
+.submit{
+    text-align: right;
+    margin-right: 230px;
+}
+footer {
+    background-color: rgb(36, 35, 35);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    margin: 0;
+}
+.footer {
+    font-size: 16px;
+}
